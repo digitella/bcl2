@@ -745,8 +745,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/profile-1172x855.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/profile-1-1172x855.png",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -757,7 +757,7 @@
                 "customStyle3": "display-4",
                 "title": "<b>BLUE CLAY</b>",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "text": "Amazing Cambrian Blue Clay Facial.<br>100% Pure and Natural<br>Now Available to US Buyers",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"#!/Blue-Clay-Facial/p/112748172/category=0\" data-toolbar=\"-mbrBtnMove\">BUY</a> ",
                 "overlayOpacity": "0.7"
@@ -775,14 +775,14 @@
                 "customStyle3": "display-4",
                 "title": "<b>EASY TO USE</b>",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "text": "Packaged into 1 oz sacks for a rich single use<br>Just add water",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"#!/Blue-Clay-Facial/p/112748172/category=0\" data-toolbar=\"-mbrBtnMove\">BUY</a> ",
                 "overlayColor": "#05296d"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20180811-141225-hdr-2000x1500.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -793,7 +793,7 @@
                 "customStyle3": "display-4",
                 "title": "<b>PURE CLAY POWDER</b>",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "text": "Mined from 1000 feet deep mine. <br>Free of pollutants, coloring, oils, and additives",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"#!/Blue-Clay-Facial/p/112748172/category=0\" data-toolbar=\"-mbrBtnMove\">BUY</a> "
               }
