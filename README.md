@@ -1,2 +1,1 @@
-# bcl2
-GitHub Pages
+# blueclay
